@@ -30,7 +30,7 @@ def main():
             else:
                 continue
 
-        print("============= END ===============")
+        print("============= THE END ===============")
     
     else:
         print("Usage: python3 main.py <path_to_book>")
